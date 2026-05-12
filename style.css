@@ -21,7 +21,7 @@ body {
     justify-content: flex-start;
     padding: 0 8%;
     position: relative;
-    background: url("img/1.gif") center right/50% no-repeat;
+    background: url("1.gif") center right/50% no-repeat;
     mask-image: linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
     -webkit-mask-image: linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
 }
